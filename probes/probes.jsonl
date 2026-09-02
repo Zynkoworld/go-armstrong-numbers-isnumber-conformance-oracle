@@ -1,0 +1,9 @@
+{"input": 0, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 5, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 10, "expect": false, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 153, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 100, "expect": false, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 9474, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 9475, "expect": false, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 9926315, "expect": true, "raised": false, "task": "armstrong-numbers", "lang": "go"}
+{"input": 9926314, "expect": false, "raised": false, "task": "armstrong-numbers", "lang": "go"}
